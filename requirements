@@ -1,0 +1,3 @@
+Pandas
+Why this is enough:
+   When your evaluator runs pip install -r requirements.txt, your environment will automatically fetch and install the latest stable package of the Pandas library from the Python Package Index (PyPI).
